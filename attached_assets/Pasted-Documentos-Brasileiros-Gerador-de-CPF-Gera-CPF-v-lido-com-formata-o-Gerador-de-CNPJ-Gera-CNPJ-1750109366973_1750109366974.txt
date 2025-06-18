@@ -1,0 +1,89 @@
+Documentos Brasileiros
+Gerador de CPF - Gera CPF válido com formatação
+Gerador de CNPJ - Gera CNPJ válido com formatação
+Gerador de RG - Gera número de RG
+Gerador de CNH - Gera número de CNH
+Gerador de PIS/PASEP - Gera número de PIS/PASEP
+Gerador de RENAVAM - Gera código RENAVAM
+Gerador de Título de Eleitor - Gera número de título de eleitor
+Gerador de Inscrição Estadual - Gera IE para diferentes estados
+Dados Financeiros
+Gerador de Conta Bancária - Gera agência e conta com dígito
+Gerador de Cartão de Crédito - Gera número de cartão (teste)
+Endereços
+Gerador de CEP - Gera CEP brasileiro válido
+Dados Pessoais e Empresariais
+Gerador de Pessoas - Nome, CPF, RG, endereço, telefone completos
+Gerador de Empresas - Nome fantasia, razão social, CNPJ, IE
+Gerador de Nomes - Nomes brasileiros masculinos e femininos
+Gerador de Nicks - Apelidos/usernames aleatórios
+Utilitários
+Gerador de Senhas - Senhas seguras com opções de configuração
+Gerador de Números Aleatórios - Com intervalo customizável
+Gerador de Lorem Ipsum - Texto placeholder em português
+Símbolos para Copiar - Coleção de símbolos especiais
+Gerador de QR Code - Converte texto em QR Code
+✅ Validadores
+Validador de CPF - Verifica se CPF é válido
+Validador de CNPJ - Verifica se CNPJ é válido
+Validador de RG - Validação básica de RG
+Validador de CNH - Validação de CNH
+Validador de PIS/PASEP - Validação de PIS/PASEP
+Validador de RENAVAM - Validação de RENAVAM
+Validador de Título de Eleitor - Validação de título de eleitor
+Validador de Inscrição Estadual - Validação de IE
+Validador de Cartão de Crédito - Validação básica de cartão
+Validador de Conta Bancária - Validação de dados bancários
+✍️ Ferramentas de Texto
+Transformações Básicas
+MAIÚSCULAS - Converte todo texto para maiúsculas
+minúsculas - Converte todo texto para minúsculas
+Primeira Maiúscula - Capitaliza primeira letra de cada palavra
+Inverter Texto - Inverte a ordem dos caracteres
+Remover Acentos - Remove todos os acentos do texto
+Remover Quebras - Remove quebras de linha
+Converter para HTML - Converte caracteres especiais para HTML
+Utilitários de Texto
+Ordem Alfabética - Organiza linhas em ordem alfabética
+Contar Ocorrências - Conta quantas vezes uma palavra aparece
+Código ASCII - Mostra código ASCII de caracteres
+Estatísticas de Texto - Conta caracteres, palavras e linhas
+💻 Ferramentas de Computação
+Codificação e Hash
+Base64 Encode/Decode - Codifica e decodifica Base64
+MD5 Hash - Gera hash MD5
+SHA-1 Hash - Gera hash SHA-1
+URL Encode/Decode - Codifica e decodifica URLs
+Informações do Sistema
+Meu IP - Mostra seu endereço IP atual
+Informações do Navegador - Detalhes do seu navegador
+Informações do Sistema - Detalhes do sistema operacional
+Utilitários
+Gerador de QR Code - Cria códigos QR personalizados
+Color Picker - Seletor de cores com códigos hex
+📐 Ferramentas de Matemática
+Calculadoras Básicas
+Calculadora de Porcentagem - Cálculos percentuais
+Regra de 3 Simples - Resolve proporções
+MDC e MMC - Máximo divisor comum e mínimo múltiplo comum
+Conversores
+Números Romanos - Converte entre números romanos e decimais
+Fatoração - Encontra fatores primos de um número
+Cálculo de Áreas
+Área do Círculo - π × r²
+Área do Quadrado - lado²
+Área do Retângulo - base × altura
+Área do Triângulo - (base × altura) / 2
+Área do Trapézio - ((base maior + base menor) × altura) / 2
+Área do Losango - (diagonal maior × diagonal menor) / 2
+📅 Ferramentas de Data
+Calculadora de Idade - Calcula idade exata em anos, meses e dias
+Diferença entre Datas - Calcula diferença em dias, meses e anos
+Adicionar/Subtrair Dias - Soma ou subtrai dias de uma data
+Dia da Semana - Descobre que dia da semana foi/será uma data
+🔍 Recursos Adicionais
+Sistema de Busca - Pesquise qualquer ferramenta pelo nome
+Seletor de Temas - 6 temas de cores diferentes (Azul, Verde, Roxo, Rosa, Laranja, Cinza)
+Sistema de Login Opcional - Para salvar histórico de uso
+Interface Responsiva - Funciona em desktop e mobile
+Copiar Resultados - Botões para copiar resultados facilmente
